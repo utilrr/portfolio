@@ -31,11 +31,11 @@ body {
 
 }
 
-
+/*
 .about {
 
 }
-
+*/
 
 .work {
     flex: 1 0 0;
@@ -57,10 +57,11 @@ body {
     min-width: 400px;
   }
 
+  /*
 .contact{
 
 }
-
+*/
 
   
 
