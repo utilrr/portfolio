@@ -6,7 +6,11 @@ GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
 THEN I am presented with the 
 
-1. developer's name, 2. a recent photo or avatar, 3. and links to sections about them, 4. their work, and 5. how to contact them
+1. developer's name, 
+2. 2. a recent photo or avatar, 
+3. 3. and links to sections about them, 
+4. 4. their work, and 
+5. 5. how to contact them
 
 WHEN I click one of the links in the navigation
 THEN the UI scrolls to the corresponding section
