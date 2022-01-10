@@ -11,11 +11,23 @@ body {
 
 }
 
-header {
+.main-header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    padding: 60px;
+    background: blue;
+    color: #fff;
 
 }
 
 .header-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 30px;
+    background: blue;
+    color: #fff;
 
 }
 
@@ -26,9 +38,30 @@ header {
 
 
 .work {
+    flex: 1 0 0;
+    padding: 10px;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
 
 }
+
+.work header {
+    padding: 20px;
+    background: #13293d;
+    color: #fff;
+  }
+  
+  .work img {
+    width: 100%;
+    min-width: 400px;
+  }
 
 .contact{
 
 }
+
+
+  
+
+  
