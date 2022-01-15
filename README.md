@@ -29,6 +29,6 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## I'm aiminng for this:
 
-![This is the goal](.images/02-advanced-css-homework-demo.gif)
+![This is the goal](./assets/images/02-advanced-css-homework-demo.gif)
 
 ## To be continued
