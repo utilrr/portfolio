@@ -118,7 +118,7 @@ main p {
 
 }
 
-
+  /* Hero styling */
 .hero {
     display: flex;
     flex-wrap: wrap;
@@ -133,6 +133,8 @@ main p {
     box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
   }
 
+
+  /* About Me styling */
 .about {
     display: flex;
     flex-wrap: wrap;
@@ -142,7 +144,7 @@ main p {
     border-radius: 4px;
 }
 
-
+  /* Work styling */
 .work {
     display: flex;
     flex-wrap: wrap;
@@ -153,11 +155,33 @@ main p {
 
 }
 
+.work big-child img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
+
+}
+.work child img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 30px;
+  }
+  
+  img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }
+
 
 /* 
 .work::firstchild;
 */
 
+
+
+  /* Contact Me styling */
 footer {
     display: flex;
     flex-wrap: wrap;
