@@ -126,7 +126,7 @@ main p {
     border: 1px solid #ddd;
     border-radius: 4px;
     padding: 5px;
-    background-image: url("../images/portfolio-test.png");
+    background-image: url("../images/hero.jpg");
 }
 
 .hero:hover {
