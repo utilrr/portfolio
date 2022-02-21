@@ -26,9 +26,12 @@ The site should use a responsive layout that adapts to other viewports
 
 ## Screen shots of the work thus far
 
-![The top portion of the portfolio](https://github.com/utilrr/portfolio/assets/images/Portfolio_top_Screen_Shot.png?raw=true "MH Portfolio-top")
+![The top portion of the portfolio](https://user-images.githubusercontent.com/25494815/154886012-cb3ff8e4-8860-421a-b00a-62305bd052bb.png)
 
-![The bottom portion of the portfolio](https://github.com/utilrr/portfolio/assets/images/Portfolio_bottom_Screen_Shot.png?raw=true "MH Portfolio-bottom")
+![The bottom portion of the portfolio](https://user-images.githubusercontent.com/25494815/154886027-08022b35-2bdb-4135-82c9-f055ff200ad5.png)
+
+![Screen Shot of the new portfolio item](https://user-images.githubusercontent.com/25494815/154886045-95fd2b30-c948-42f4-9024-ac4eef660878.png)
+
 
 ## 
 https://utilrr.github.io/portfolio/
